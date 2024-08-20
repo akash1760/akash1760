@@ -47,14 +47,14 @@
 </details>
 
 ---
-
+ -->
 <details open>
  <summary><b>GitHub Stats</b> </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=8uraj&show_icons=true&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=8uraj&hide=css,shell">
+  <img src = "https://github-readme-stats.vercel.app/api?username=akash1760&show_icons=true&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=akash1760&hide=css,shell">
  
 </p>
-</details> -->
+</details>
 
