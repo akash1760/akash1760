@@ -1,10 +1,10 @@
 ![]()
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp" width="25px" height="25px" /> I'm Akash Unhale! </h1>
-
+<center>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=web+Developer;Engineer;Content+Creator)](https://git.io/typing-svg)
 
-
+</center>
  `Software Developer` who just love to Code.
 - 📫 How to reach me: akashashokunhale1@gmail.com
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/akash-unhale-384092189/)
