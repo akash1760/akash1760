@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp" width="25px" height="25px" /> I'm Akash Unhale! </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;Developer;Programmer;Content+Creator;And+A+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=web+Developer;Engineer;Content+Creator)](https://git.io/typing-svg)
 
 
  `Software Developer` who just love to Code.
