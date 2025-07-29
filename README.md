@@ -4,9 +4,9 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning and Android Development**
+- 🌱 I’m currently Exploring and contributing in **C#, ASP.NET Core MVC Project**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Full Stack Software Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://akash1760.github.io/MyPortfolio/](https://akash1760.github.io/MyPortfolio/)
 
